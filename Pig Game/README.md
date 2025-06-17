@@ -4,7 +4,4 @@ The Pig Game is a two-player dice game where players take turns rolling a die to
 
 
 
-
-
-
-
+![Game Set](https://github.com/user-attachments/assets/f07172d5-0cfd-4742-bab4-0821bd905d1e)
