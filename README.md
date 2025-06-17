@@ -1,1 +1,1 @@
-# JS-Pig-Game
+# JS little games
